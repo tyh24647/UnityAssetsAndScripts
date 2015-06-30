@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 2fb1313e6c12c714b97e60dee9673f0b
+timeCreated: 1433426707
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Base
+    100002: Bolt
+    100004: Bolt_holder
+    100006: Bullet
+    100008: l-forearm
+    100010: l-forearm-twist
+    100012: l-index-low
+    100014: l-index-mid
+    100016: l-index-tip
+    100018: l-middle-low
+    100020: l-middle-mid
+    100022: l-middle-tip
+    100024: l-pinky-low
+    100026: l-pinky-mid
+    100028: l-pinky-tip
+    100030: l-ring-low
+    100032: l-ring-mid
+    100034: l-ring-tip
+    100036: l-thumb-low
+    100038: l-thumb-mid
+    100040: l-thumb-tip
+    100042: l-upperarm
+    100044: l-upperarm-movement
+    100046: lwrist
+    100048: //RootNode
+    100050: Mag
+    100052: r-forearm
+    100054: r-forearm-twist
+    100056: r-index-low
+    100058: r-index-mid
+    100060: r-index-tip
+    100062: r-middle-low
+    100064: r-middle-mid
+    100066: r-middle-tip
+    100068: r-pinky-low
+    100070: r-pinky-mid
+    100072: r-pinky-tip
+    100074: r-ring-low
+    100076: r-ring-mid
+    100078: r-ring-tip
+    100080: r-rist
+    100082: r-thumb-low
+    100084: r-thumb-mid
+    100086: r-thumb-tip
+    100088: r-upperarm
+    100090: r-upperarm-movement
+    100092: Trigger
+    400000: Base
+    400002: Bolt
+    400004: Bolt_holder
+    400006: Bullet
+    400008: l-forearm
+    400010: l-forearm-twist
+    400012: l-index-low
+    400014: l-index-mid
+    400016: l-index-tip
+    400018: l-middle-low
+    400020: l-middle-mid
+    400022: l-middle-tip
+    400024: l-pinky-low
+    400026: l-pinky-mid
+    400028: l-pinky-tip
+    400030: l-ring-low
+    400032: l-ring-mid
+    400034: l-ring-tip
+    400036: l-thumb-low
+    400038: l-thumb-mid
+    400040: l-thumb-tip
+    400042: l-upperarm
+    400044: l-upperarm-movement
+    400046: lwrist
+    400048: //RootNode
+    400050: Mag
+    400052: r-forearm
+    400054: r-forearm-twist
+    400056: r-index-low
+    400058: r-index-mid
+    400060: r-index-tip
+    400062: r-middle-low
+    400064: r-middle-mid
+    400066: r-middle-tip
+    400068: r-pinky-low
+    400070: r-pinky-mid
+    400072: r-pinky-tip
+    400074: r-ring-low
+    400076: r-ring-mid
+    400078: r-ring-tip
+    400080: r-rist
+    400082: r-thumb-low
+    400084: r-thumb-mid
+    400086: r-thumb-tip
+    400088: r-upperarm
+    400090: r-upperarm-movement
+    400092: Trigger
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

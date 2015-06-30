@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 93cacea69ca78fd4784c214887fd29e5
+timeCreated: 1433855010
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bolt
+    100004: Grip
+    100006: Helper_L_Arm
+    100008: Helper_R_Arm
+    100010: L_Arm
+    100012: L_Hand
+    100014: L_Index_Base
+    100016: L_Index_Middle
+    100018: L_Index_Tip
+    100020: L_Middle_Base
+    100022: L_Middle_Middle
+    100024: L_Middle_Tip
+    100026: L_Pinky_Base
+    100028: L_Pinky_Middle
+    100030: L_Pinky_Tip
+    100032: L_Ring_Base
+    100034: L_Ring_Middle
+    100036: L_Ring_Tip
+    100038: L_Thumb_Base
+    100040: L_Thumb_Middle
+    100042: L_Thumb_Tip
+    100044: L_Upperarm
+    100046: Magazine
+    100048: //RootNode
+    100050: R_Arm
+    100052: R_Hand
+    100054: R_Index_Base
+    100056: R_Index_Middle
+    100058: R_Index_Tip
+    100060: R_Middle_Base
+    100062: R_Middle_Middle
+    100064: R_Middle_Tip
+    100066: R_Pinky_Base
+    100068: R_Pinky_Middle
+    100070: R_Pinky_Tip
+    100072: R_Ring_Base
+    100074: R_Ring_Middle
+    100076: R_Ring_Tip
+    100078: R_Thumb_Base
+    100080: R_Thumb_Middle
+    100082: R_Thumb_Tip
+    100084: R_Upperarm
+    100086: Trigger
+    400000: Body
+    400002: Bolt
+    400004: Grip
+    400006: Helper_L_Arm
+    400008: Helper_R_Arm
+    400010: L_Arm
+    400012: L_Hand
+    400014: L_Index_Base
+    400016: L_Index_Middle
+    400018: L_Index_Tip
+    400020: L_Middle_Base
+    400022: L_Middle_Middle
+    400024: L_Middle_Tip
+    400026: L_Pinky_Base
+    400028: L_Pinky_Middle
+    400030: L_Pinky_Tip
+    400032: L_Ring_Base
+    400034: L_Ring_Middle
+    400036: L_Ring_Tip
+    400038: L_Thumb_Base
+    400040: L_Thumb_Middle
+    400042: L_Thumb_Tip
+    400044: L_Upperarm
+    400046: Magazine
+    400048: //RootNode
+    400050: R_Arm
+    400052: R_Hand
+    400054: R_Index_Base
+    400056: R_Index_Middle
+    400058: R_Index_Tip
+    400060: R_Middle_Base
+    400062: R_Middle_Middle
+    400064: R_Middle_Tip
+    400066: R_Pinky_Base
+    400068: R_Pinky_Middle
+    400070: R_Pinky_Tip
+    400072: R_Ring_Base
+    400074: R_Ring_Middle
+    400076: R_Ring_Tip
+    400078: R_Thumb_Base
+    400080: R_Thumb_Middle
+    400082: R_Thumb_Tip
+    400084: R_Upperarm
+    400086: Trigger
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
