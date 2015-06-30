@@ -25,14 +25,14 @@ public class PlayerGun_semiAuto : MonoBehaviour {
 	private Transform playerHandsTransform;
 	private float currentY, originalX, originalZ;
 	private Quaternion normalRotation;
-	private Space rotationContext;
+	private Space rotationContext; 
 
 	// Init defaults/constants
-	private static int DEFAULT_NUM_SHOTS = 16, DEFAULT_NUM_CLIPS = 5, LEFT = -1, RIGHT = 1, QUARTER_ROTATION = 90,
+	private static sealed int DEFAULT_NUM_SHOTS = 16, DEFAULT_NUM_CLIPS = 5, LEFT = -1, RIGHT = 1, QUARTER_ROTATION = 90,
 								DEFAULT_STAMINA = 500;
-	private static bool DEFAULT_ANIMATION_PERMISSIONS = true;
-	private static Vector3 DEFAULT_VECTOR_SHIFT_AMT = new Vector3(1, 0, 0);
-	private static Space DEFAULT_WORLD = Space.World;
+	private static sealed bool DEFAULT_ANIMATION_PERMISSIONS = true;
+	private static sealed Vector3 DEFAULT_VECTOR_SHIFT_AMT = new Vector3(1, 0, 0);
+	private static sealed Space DEFAULT_WORLD = Space.World;
 
 
 	// Use this for initialization
